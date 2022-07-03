@@ -3,10 +3,10 @@
 <img align="left" height="200" src="https://i.imgur.com/uhvwGwF.png"  />
 
 ###
-<h4 align="left">What's Up?! My name is Gabriel Godoy, welcome to my GitHub!</h4>
+<h4 align="left">Hey there! My name is Gabriel Godoy, welcome to my GitHub!</h4>
 
 ###
-<h4 align="left">I'm a Jr. Front-End. Coding and gaming are good passions of mine :p </h4>
+<h4 align="left">I'm a Front-End Jr. Developer; Coding, reading, gaming and taking of whiskey are 98% of my life. And I love it!</h4>
 
 ###
 <div align="left">
