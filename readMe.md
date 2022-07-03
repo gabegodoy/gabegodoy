@@ -1,6 +1,6 @@
 
 
-<img align="left" height="200" src="https://cdn.discordapp.com/attachments/927534793892171798/927537897438052352/IMG_9557.png"  />
+<img align="left" height="200" src="https://i.imgur.com/uhvwGwF.png"  />
 
 ###
 <h4 align="left">What's Up?! My name is Gabriel Godoy, welcome to my GitHub!</h4>
