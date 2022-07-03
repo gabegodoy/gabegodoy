@@ -6,7 +6,7 @@
 <h4 align="left">Hey there! My name is Gabriel Godoy, welcome to my GitHub!</h4>
 
 ###
-<h4 align="left">I'm a Front-End Jr. Developer; Coding, reading, gaming and taking of whiskey are 98% of my life. And I love it!</h4>
+<h4 align="left">I'm a Front-End Jr. Developer; Coding, reading, gaming and taking a sip of whiskey are 98% of my life. And I love it!</h4>
 
 ###
 <div align="left">
